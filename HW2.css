@@ -1,0 +1,130 @@
+
+
+a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* this is for the topmenu */
+.menu_head{
+    
+    position: relative;
+    block-size: 50px;
+    background-color: #000;
+    margin: -21px;
+}
+
+.navbar_head {
+    position: relative;
+    top: 40%;
+}
+
+.HomeTab {
+    position: relative;
+    left: 13%;
+}
+
+.AboutTab {
+    position: relative;
+    left: 14%;
+}
+
+.ServiceTab {
+    position: relative;
+    left: 15%;
+}
+
+.ContactsTab {
+    position: relative;
+    left: 16%;
+}
+
+
+/* this is for title */
+
+.titles {
+    position: relative;
+    background-color: #c6bfbf;
+    block-size: 130px;
+    margin: -11px;
+}
+
+
+.title_head {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 10%;
+    top: 18%;
+}
+
+.title_sub {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+/* This is for content */
+.content {
+    display: flex;
+    position: relative;
+    justify-content: space-evenly;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    block-size: 400px;
+}
+
+.paragraph_first{
+    position: relative;
+    margin-right: 30px;
+}
+
+.paragraph_second{
+    position: relative;
+    margin-right: 30px;
+}
+
+/* This is Footer */
+.menu_bottom {
+    position: relative;
+    background-color: #0b4d14;
+    block-size: 50px;
+    top: 25%;
+}
+
+.navbar_bottom {
+    position: relative;
+    top: 25%;
+}
+
+.FooterHomeTab {
+    position: relative;
+    left: 10%;
+}
+
+.FooterAboutTab {
+    position: relative;
+    left: 12%;
+}
+
+.FooterContactTab {
+    position: relative;
+    left: 14%;
+}
+
+.FooterFacebookTab {
+    position: relative;
+    left: 60%;
+}
+
+.FooterTwitterTab {
+    position: relative;
+    left: 62%;
+}
+
+.FooterVimeoTab {
+    position: relative;
+    left: 64%;
+}
